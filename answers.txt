@@ -1,0 +1,7 @@
+If you're in an online learning environment or using an educational platform with its own submission system, you'll usually find a place to upload files. It's like finding a button or a dedicated section for that purpose. Just follow the platform's instructions to submit your files.
+
+Another option is to bundle all the important files, like the .sql and answers.txt, into a compressed file, such as a ZIP or RAR. Once you create this file, you can send it via email or use file-sharing platforms like Google Drive or Dropbox, or even through the submission system itself if it allows that.
+
+If it's not possible to send all the files together, you can send them individually. It's like sending each .sql file and the answers.txt separately, either through email or via a file-sharing platform.
+
+Oh, and in some cases, if you're working in a terminal, you can use command-line commands to send the files. For instance, using 'submit50' (if available) or other terminal commands to upload everything to an online repository, if the system permits it.
